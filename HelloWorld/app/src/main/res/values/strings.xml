@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello World</string>
+
+    <string name="logButton">Log in</string>
+    <string name="logout">Log out</string>
+    <string name="welcomeMess">Welcome to the Home Page</string>
+</resources>
